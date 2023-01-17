@@ -1,2 +1,0 @@
-# Playgrounds
-Lab Playground
